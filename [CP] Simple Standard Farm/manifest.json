@@ -1,0 +1,12 @@
+{
+  "Name": "Simple Standard Farm",
+  "Author": "Zydlar",
+  "Version": "1.0.0",
+  "Description": "Standard Farm Map with straight edges and moved pond.",
+  "UniqueID": "Zydlar.SimpleStandardFarm",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
