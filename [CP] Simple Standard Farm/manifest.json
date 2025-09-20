@@ -5,8 +5,9 @@
   "Description": "Standard Farm Map with straight edges and moved pond.",
   "UniqueID": "Zydlar.SimpleStandardFarm",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": ["Nexus:37782"],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
+
 }
